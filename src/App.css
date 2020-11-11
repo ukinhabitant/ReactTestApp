@@ -1,0 +1,12 @@
+.App, .logs {
+  width: 700px;
+  overflow: auto;
+  border: solid 1px #CCCCCC;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+
+
